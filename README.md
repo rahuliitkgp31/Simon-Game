@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+#[Simon](https://rahuliitkgp31.github.io/Simon-Game/)
+Simon is a web game created from scratch using jQuery, CSS, HTML.
 
-You can use the [editor on GitHub](https://github.com/rahuliitkgp31/Simon-Game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Rules of the game are simple at every level you will be given a new color and you have to press whole pattern of colours in correct sequence from starting of the game to the current level in order to pass current level.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Example
+First the game shows the first colour in the sequence (blue). The user clicks on the blue button.
+Next, the game shows the next colour (red), the user has to remember the sequence is blue, red and have to click both blue and red in correct order to pass current level.
+If user presses the wrong color the game ends.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahuliitkgp31/Simon-Game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+See [game](https://rahuliitkgp31.github.io/Simon-Game/)
