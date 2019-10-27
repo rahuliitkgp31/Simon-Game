@@ -5,9 +5,7 @@ Rules of the game are simple at every level you will be given a new color and yo
 
 ### Example
 First the game shows the first colour in the sequence (blue). The user clicks on the blue button.
-
-Next, the game shows the next colour (red), the user has to remember the sequence is blue, red and have to click both blue and red in correct order to pass current level.
-
+Next, the game shows the next colour (red), the user has to remember the sequence is blue, red and have to click both blue and red in correct order to pass the current level.
 If user presses the wrong color the game ends.
 
 See [game](https://rahuliitkgp31.github.io/Simon-Game/)
